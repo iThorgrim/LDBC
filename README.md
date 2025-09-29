@@ -1,4 +1,4 @@
-# TLK-DBC: World of Warcraft TLK DBC Reader/Writer
+# LDBC: World of Warcraft TLK DBC Reader/Writer
 
 A modern, object-oriented DBC file reader and writer for World of Warcraft: The Lich King, built with Moonscript using clean architecture and various Design Pattern.
 
